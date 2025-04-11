@@ -5,6 +5,4 @@
 /node_modules
 
 # Data
-data.json
-data-1.json
-data-2.json
+data*
